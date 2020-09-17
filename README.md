@@ -1,5 +1,7 @@
 # vue-sequence-diagram
 
+> 基于Gojs 时序图（sequence diagram）封装的Vue组件
+
 ## Project setup
 ```
 npm install
